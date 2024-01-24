@@ -9,8 +9,8 @@ This is a Go project which supports our guide to [Get Going with GitOps](https:/
 
 Source: [get-going-gitops](get-going-gitops)
 
-### Preview Environments and Flipt
+### Evaluating with References
 
-This is a Go/React project which supports our guide to [tbd]() and Flipt, demonstrating the value of Flipt's new reference support with the Git backend.
+This is a Go/React project which supports our guide to [Evaluating with References](/guides/using-references) and Flipt, demonstrating the value of Flipt's new reference support with the Git backend.
 
-Source: [preview-envs](preview-envs)
+Source: [dashboard-app](dashboard-app)
